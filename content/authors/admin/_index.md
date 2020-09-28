@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Information Security, Privacy and Offensive Cyberwarfare.
+bio: My research interests include Information Security, Privacy Law and Offensive Cyberwarfare.
 
 interests:
 - Cyber Security Law
@@ -34,7 +34,7 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2009
   - course: LL.B in Law
-    institution: Obafemi Awolowo
+    institution: Obafemi Awolowo University
     year: 2021
 
 # Social/Academic Networking
