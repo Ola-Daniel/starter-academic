@@ -28,11 +28,11 @@ interests:
 education:
   courses:
  # - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-#  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+ #   institution: Stanford University
+ #   year: 2012
+# - course: MEng in Artificial Intelligence
+ #  institution: Massachusetts Institute of Technology
+ #  year: 2009
   - course: LL.B in Law
     institution: Obafemi Awolowo University
     year: 2021
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Daniel Gillam is a .
+Daniel Gillam is a ......
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
