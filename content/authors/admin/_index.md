@@ -33,7 +33,7 @@ education:
   - course:
     institution:
     year:
-  - course: LL.B in Law
+  - course: LL.B Law
     institution: Obafemi Awolowo University
     year: 2021
 
