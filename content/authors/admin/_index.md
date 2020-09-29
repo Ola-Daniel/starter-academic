@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-My Name is Daniel Gillam. I am a Information Security Enthusiast currently living in Nigeria. I love to explore the intersection of technology, privacy, cyberwarfare and the society.
+My name is Daniel Gillam. I am a Information Security Enthusiast currently living in Nigeria. I love to explore the intersection of technology, privacy, cyberwarfare and the society.
 
 Occasionally, i write on how the evolution of technology affect our daily lives. When i'm not reading about the latest cyberattack or writing an article, i spend most of my time editing vidoes, learning how to code or reading a good book. I also enjoy solving machines on hackthebox and tryhackme where i hold the rank of Wizard. 
