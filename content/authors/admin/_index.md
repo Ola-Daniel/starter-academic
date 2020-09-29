@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include Information Security, Privacy Law and Offensive Cyberwarfare.
 
 interests:
-- Cyber Security Law
+- Information Technology Law
 - Penetration Testing
 - Cinematography
 
