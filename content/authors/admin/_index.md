@@ -14,7 +14,7 @@ role: Infosec and Privacy Enthusiast
 
 # Organizations/Affiliations
 organizations:
-- name: Obafemi Awolowo University
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
