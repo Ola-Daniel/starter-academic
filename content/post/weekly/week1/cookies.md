@@ -7,7 +7,7 @@ tags: ["websites", "web security"]
 subtitle:
 featured: true
 categories: ["web security"]
-draft: false
+draft: true
 reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
 profile: true  # Show author profile?
