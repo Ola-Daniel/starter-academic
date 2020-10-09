@@ -10,7 +10,7 @@ categories: ["web security"]
 draft: true
 reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
-profile: true  # Show author profile?
+profile: false  # Show author profile?
 commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 # header:
@@ -30,4 +30,5 @@ Cookies usually do not contain a lot of data. Information included in a cookie a
  2. Persistent cookies - This kind of cookies remains in your browser for a certain period of time, and is only removed from your device if you delete it or once the duration set as time to live has been exhided.
  
                                           ## Dangers of Malicious cookies
-Most cookies are harmless, and they can do no damage to your device. However certain types of cookies can be used for less than ideal purposes. Third party cookies are used by advertising agencies to build a profile about you and will use that information to tailor specify adverts shown to you while you surf the web. This kind of cookies can also be used to track what websites you visit and over time, use such information to build a pretty robust information bank about you which can be sold to willing buyers amongs which are intelligence agencies and other advertising agencies.  
+Most cookies are harmless, and they can do no damage to your device. However certain types of cookies can be used for less than ideal purposes. Third party cookies are used by advertising agencies to build a profile about you and will use that information to tailor specify adverts shown to you while you surf the web. This kind of cookies can also be used to track what websites you visit and over time, use such information to build a pretty robust information bank about you which can be sold to willing buyers amongs which are intelligence agencies and other advertising agencies. 
+Cookies are an essential part of our web experience, however knowing what functions they serve in our browsers can help in safeguarding our privacy online and keeping our private data secure.
