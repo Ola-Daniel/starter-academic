@@ -13,9 +13,9 @@ share: true  # Show social sharing links?
 profile: false  # Show author profile?
 commentable: true  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
-header:
-image: "header.png"
-caption: "Image credit: [**Pexels.com**](https://www.pexels.com/photo/close-up-photo-of-cookies-3095041/)"
+# header:
+# image: "header.png"
+# caption: "Image credit: [**Pexels.com**](https://www.pexels.com/photo/close-up-photo-of-cookies-3095041/)"
 ---
 Often, while surfing the internet or visiting a website online, you get those intrusive popup messages asking if you would like to enable cookies for your browsing session. Most times you click the accept button without knowing what cookies are or what they do in your browser. Cookies are also known as browser cookies, HTTP cookies, web cookies and internet cookies.
                                                                                                                         **What are cookies**
