@@ -2,12 +2,12 @@
 title: Cookies, What are those.
 summary:
 date: Oct 9, 2020
-authors: admin
+author: admin
 tags: ["websites", "web security"]
 subtitle:
 featured: true
 categories: ["web security"]
-draft: true
+draft: false
 reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
 profile: false  # Show author profile?
