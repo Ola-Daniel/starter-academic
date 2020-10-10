@@ -18,8 +18,11 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 # caption: "Image credit: [**Pexels.com**](https://www.pexels.com/photo/close-up-photo-of-cookies-3095041/)"
 ---
 Often, while surfing the internet or visiting a website online, you get those intrusive popup messages asking if you would like to enable cookies for your browsing session. Most times you click the accept button without knowing what cookies are or what they do in your browser. Cookies are also known as browser cookies, HTTP cookies, web cookies, and internet cookies.
+
+
+
                                                                                                                                          
-   **What are cookies**
+  **What are cookies**
                                       
                                       
 Cookies are small pieces of data that a web server sends back to your browser when you try to visit a website. Cookies are created by web servers to keep track of your identity, your movement around the website, what pages you visit, and what buttons you click.  
