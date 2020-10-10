@@ -16,7 +16,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 # header:
 # image: "header.png"
 # caption: "Image credit: [**Pexels.com**](https://www.pexels.com/photo/close-up-photo-of-cookies-3095041/)"
-image:
+image: featured.jpg
   placement: 1
   caption: "Cookies"
   focal_point: "Center"
