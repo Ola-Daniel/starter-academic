@@ -1,5 +1,5 @@
 ---
-title: Would you like some Cookies?
+title: Web Cookies, what are those?
 summary:
 date: Oct 9, 2020
 author: admin
