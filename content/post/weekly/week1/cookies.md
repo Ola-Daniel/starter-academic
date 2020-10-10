@@ -22,7 +22,7 @@ Often, while surfing the internet or visiting a website online, you get those in
 
 
                                                                                                                                          
-   **What are cookies**
+   ##**What are cookies**
                                       
                                       
 Cookies are small pieces of data that a web server sends back to your browser when you try to visit a website. Cookies are created by web servers to keep track of your identity, your movement around the website, what pages you visit, and what buttons you click.  
@@ -33,14 +33,14 @@ Without cookies, there will be no way for the server to know if you are logged i
               This mechanism is what is used to keep track of all the different items you add to your cart when you shop online.
 Cookies usually do not contain a lot of data. 
               The information included in a cookie is primarily the URL of the issuing website, the duration of the cookie's lifespan, and a small string of encoded data.
-                                                                                                                                                                                                                        **Type of Cookies**
+                                                                                                                                                                                                                        ##**Type of Cookies**
                                        
                                        
  There are two common types of cookies
  1. Session cookies - Also known as a transient cookie is a kind of cookie that only exists in your browser for the duration of time spent on the issuing website. Once you close the browser window/browser the cookie automatically deletes itself. 
  Most often, these kinds of cookies are used for authentication and are destroyed immediately after your session ends to prevent impersonation by a malicious attacker who can get steal your cookies to access your account.
  2. Persistent cookies - This kind of cookies remains in your browser for a certain period of time, and is only removed from your device if you delete it or once the duration set as time to live has been exceeded.
-                                                                                                                    **Dangers of Malicious cookies**
+                                                                                                                    ##**Dangers of Malicious cookies**
                                   
 Most cookies are harmless, and they can do no damage to your device. However certain types of cookies can be used for less than ideal purposes. Third-party cookies are used by advertising agencies to build a profile about you and will use that information to tailor specific adverts shown to you while you surf the web. 
             This kind of cookies can also be used to track what websites you visit and over time, use such information to build a pretty robust information bank about you that can be sold to willing buyers among which are intelligence agencies and other advertising agencies. 
