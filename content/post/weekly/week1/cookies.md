@@ -18,7 +18,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 # caption: "Image credit: [**Pexels.com**](https://www.pexels.com/photo/close-up-photo-of-cookies-3095041/)"
 ---
 
-Often, while surfing the internet or visiting a website online, you get those intrusive popup messages asking if you would like to enable cookies for your browsing session.                 Most times you click the accept button without knowing what cookies are or what they do in your browser. Cookies are also known as browser cookies, HTTP cookies, web cookies, or internet cookies.
+Often, while surfing the internet or visiting a website online, you get those intrusive popup messages asking if you would like to enable cookies for your browsing session.                            Most times you click the accept button without knowing what cookies are or what they do in your browser.                              Cookies are also known as browser cookies, HTTP cookies, web cookies, or internet cookies.
 
 {{< figure src="featured.jpg" title="Cookies" >}}
 
@@ -33,9 +33,7 @@ A web server is primarily stateless. This means that it has no memory and it doe
 Without cookies, there will be no way for the server to know if you are logged in after clicking a link to a new page or if you are authorized to access certain pages.                               
               Once logged in and you try to access another page on the website, your browser sends the cookie received initially, back as part of the new request.                       
               The server then reads the cookie value and uses this data to identify you. This way the server can keep track of what pages you visit and what actions you take on the website.                             
-              This mechanism is what is used to keep track of all the different items you add to your cart when you shop online.
-Cookies usually do not contain a lot of data.                                                 
-              The information included in a cookie is primarily the URL of the issuing website, the duration of the cookie's lifespan, and a small string of encoded data.
+              This mechanism is what is used to keep track of all the different items you add to your cart when you shop online.                Cookies usually do not contain a lot of data. The information included in a cookie is primarily the URL of the issuing website, the duration of the cookie's lifespan, and a small string of encoded data.
                                                                                                                                                                                                                         
                                
                                        
