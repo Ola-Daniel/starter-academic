@@ -16,6 +16,12 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 # header:
 # image: "header.png"
 # caption: "Image credit: [**Pexels.com**](https://www.pexels.com/photo/close-up-photo-of-cookies-3095041/)"
+image:
+  placement: 1
+  caption: "Cookies"
+  focal_point: "Center"
+  preview_only: false
+  alt_text: An 
 ---
 
 Often, while surfing the internet or visiting a website online, you get those intrusive popup messages asking if you would like to enable cookies for your browsing session.                            Most times you click the accept button without knowing what cookies are or what they do in your browser.                              Cookies are also known as browser cookies, HTTP cookies, web cookies, or internet cookies.
