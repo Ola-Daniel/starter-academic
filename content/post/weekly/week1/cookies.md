@@ -26,7 +26,7 @@ image:
 
 Often, while surfing the internet or visiting a website online, you get those intrusive popup messages asking if you would like to enable cookies for your browsing session.                            Most times you click the accept button without knowing what cookies are or what they do in your browser.                              Cookies are also known as browser cookies, HTTP cookies, web cookies, or internet cookies.
 
-{{< figure src="featured.jpg" title="Cookies" >}}
+
 
 
 
