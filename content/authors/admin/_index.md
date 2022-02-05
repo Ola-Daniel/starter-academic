@@ -22,7 +22,7 @@ bio: My research interests include Cloud Technology, Privacy Law and Offensive C
 
 interests:
 - Cloud Technology
-- Information Security Law
+- Cyber Law
 - Penetration Testing
 - Cinematography
 
