@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Cloud Technology, Privacy Law and Offensive Cyber-security.
+bio: My research interests include Cloud Technology, Privacy Law and Offensive Cyber-Security.
 
 interests:
 - Cloud Technology
@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Hi, My name is Daniel Ola-olorun. I am a Cloud Engineer and Security Professional currently living in Nigeria. I love to explore the intersection of Cloud technology, Cyber-security, Privacy and the society.
+Hi, My name is Daniel Ola-olorun. I am a Cloud Engineer and Security Professional currently living in Nigeria. I love to explore the intersection of cloud technology, cyber-security, privacy and the society.
 
 Occasionally, I write on how the evolution of technology affects our daily lives. When I'm not reading about the latest cyberattack or writing an article, I spend most of my time editing vidoes, writing software or reading a good book. I also enjoy solving machines on hackthebox.eu and tryhackme.com. 
