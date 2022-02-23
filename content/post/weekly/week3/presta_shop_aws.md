@@ -26,5 +26,5 @@ image:
 Tools
 
 1. AWS EC2 (t2.micro)
-2. Amazon RDS for mysql (db.t2.micro) 
+2. Amazon RDS for database based on mysql (db.t2.micro) 
 3. AWS cloudshell for CLI
