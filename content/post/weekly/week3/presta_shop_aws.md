@@ -1,12 +1,12 @@
 ---
-title: Web Cookies, what are those?
+title: Deploying PrestaShop on AWS with Micro-Service Architecture
 summary:
-date: Oct 9, 2020
+date: Feb 23, 2022
 author: admin
-tags: ["websites", "web security"]
+tags: ["Cloud", "Microservice", "Deployment", "DevOps"]
 subtitle:
 featured: true
-categories: ["Websites", "Web Security"]
+categories: ["Cloud", "Microservice", "Deployment", "DevOps"]
 draft: false
 reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
@@ -18,7 +18,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 # caption: "Image credit: [**Pexels.com**](https://www.pexels.com/photo/close-up-photo-of-cookies-3095041/)"
 image:
   placement: 1
-  caption: "Cookies"
+  caption: "PrestaShop"
   focal_point: "Center"
   preview_only: false
   alt_text: 
