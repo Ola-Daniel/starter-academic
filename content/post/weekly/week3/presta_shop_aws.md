@@ -26,7 +26,7 @@ image:
 **Tools**
 
 1. AWS EC2 instance (t2.micro)
-2. Amazon RDS instance for database based on mysql (db.t2.micro) 
+2. Amazon RDS instance (Mysql) 
 3. AWS cloudshell for CLI
 
 **Steps**
@@ -35,3 +35,4 @@ image:
 2. login to EC2 with ssh key and configure webserver on instance directly from AWS cloudshell
 3. Setup Amazon RDS (mysql) as persistent datastore (database) for Prestashop
 4. Install Prestashop  on Ec2 instance from cloudshell
+5. Configure Prestashop from browser
