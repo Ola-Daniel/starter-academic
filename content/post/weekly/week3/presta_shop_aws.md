@@ -38,6 +38,9 @@ image:
 5. Configure Prestashop from browser
 
 
+
+
+
 To deploy the Prestashop software, i start by accessing the AWS console, I search for the EC2 service. I then proceed to create a new instance.
 
 Here i am prompted to select a Amazon machine image or AMI, this is basically the OS that will run on the deployed instance created. I go for the Ubuntu Server version 20.04 as it is the latest version of the ubuntu OS image available. My thoughts is that the 64-bit(x86) has greater popularity than ARM so i select that.
